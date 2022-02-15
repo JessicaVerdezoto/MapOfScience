@@ -1,0 +1,802 @@
+PMID- 32692281
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200903
+LR  - 20210502
+IS  - 0031-949X (Print)
+IS  - 1943-7684 (Electronic)
+IS  - 0031-949X (Linking)
+VI  - 110
+IP  - 9
+DP  - 2020 Sep
+TI  - Accessory Chromosomes in Fusarium oxysporum.
+PG  - 1488-1496
+LID - 10.1094/PHYTO-03-20-0069-IA [doi]
+AB  - Most genomes within the species complex of Fusarium oxysporum are organized into two 
+      compartments: the core chromosomes (CCs) and accessory chromosomes (ACs). As opposed 
+      to CCs, which are conserved and vertically transmitted to carry out essential 
+      housekeeping functions, lineage- or strain-specific ACs are believed to be initially 
+      horizontally acquired through unclear mechanisms. These two genomic compartments are 
+      different in terms of gene density, the distribution of transposable elements, and 
+      epigenetic markers. Although common in eukaryotes, the functional importance of ACs 
+      is uniquely emphasized among fungal species, specifically in relationship to fungal 
+      pathogenicity and their adaptation to diverse hosts. With a focus on the 
+      cross-kingdom fungal pathogen F. oxysporum, this review provides a summary of the 
+      differences between CCs and ACs based on current knowledge of gene functions, genome 
+      structures, and epigenetic signatures, and explores the transcriptional crosstalk 
+      between the core and accessory genomes.
+FAU - Yang, He
+AU  - Yang H
+AD  - University of Massachusetts, Biochemistry and Molecular Biology, Amherst, MA 01003.
+FAU - Yu, Houlin
+AU  - Yu H
+AD  - University of Massachusetts, Biochemistry and Molecular Biology, Amherst, MA 01003.
+FAU - Ma, Li-Jun
+AU  - Ma LJ
+AUID- ORCID: 0000-0002-2733-3708
+AD  - University of Massachusetts, Biochemistry and Molecular Biology, Amherst, MA 01003.
+LA  - eng
+GR  - R01 EY030150/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20200806
+TA  - Phytopathology
+JT  - Phytopathology
+JID - 9427222
+SB  - IM
+MH  - Chromosomes, Fungal
+MH  - Fusarium/*genetics
+MH  - Genome, Fungal
+MH  - Phylogeny
+MH  - Plant Diseases
+PMC - PMC8086798
+MID - NIHMS1694537
+OTO - NOTNLM
+OT  - Fusarium oxysporum
+OT  - accessory chromosome
+OT  - fungal genome compartmentalization
+OT  - genome crosstalk
+COIS- The author(s) declare no conflict of interest.
+EDAT- 2020/07/22 06:00
+MHDA- 2020/09/04 06:00
+CRDT- 2020/07/22 06:00
+PHST- 2020/07/22 06:00 [pubmed]
+PHST- 2020/09/04 06:00 [medline]
+PHST- 2020/07/22 06:00 [entrez]
+AID - 10.1094/PHYTO-03-20-0069-IA [doi]
+PST - ppublish
+SO  - Phytopathology. 2020 Sep;110(9):1488-1496. doi: 10.1094/PHYTO-03-20-0069-IA. Epub 
+      2020 Aug 6.
+
+PMID- 34575897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20211028
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 18
+DP  - 2021 Sep 8
+TI  - Fusarium oxysporum f. sp. niveum Molecular Diagnostics Past, Present and Future.
+LID - 10.3390/ijms22189735 [doi]
+LID - 9735
+AB  - Watermelon is an important commercial crop in the Southeastern United States and 
+      around the world. However, production is significantly limited by biotic factors 
+      including fusarium wilt caused by the hemibiotrophic fungus Fusarium oxysporum forma 
+      specialis niveum (Fon). Unfortunately, this disease has increased significantly in 
+      its presence over the last several decades as races have emerged which can overcome 
+      the available commercial resistance. Management strategies include rotation, 
+      improved crop resistance, and chemical control, but early and accurate diagnostics 
+      are required for appropriate management. Accurate diagnostics require molecular and 
+      genomic strategies due to the near identical genomic sequences of the various races. 
+      Bioassays exist for evaluating both the pathogenicity and virulence of an isolate 
+      but are limited by the time and resources required. Molecular strategies are still 
+      imperfect but greatly reduce the time to complete the diagnosis. This article 
+      presents the current state of the research surrounding races, both how races have 
+      been detected and diagnosed in the past and future prospects for improving the 
+      system of differentiation. Additionally, the available Fon genomes were analyzed 
+      using a strategy previously described in separate formae speciales avirulence gene 
+      association studies in Fusarium oxysporum races.
+FAU - Hudson, Owen
+AU  - Hudson O
+AUID- ORCID: 0000-0002-7409-2118
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA 31793, USA.
+FAU - Fulton, James C
+AU  - Fulton JC
+AD  - Department of Plant Pathology, University of Florida, Gainesville, FL 32611, USA.
+FAU - Dong, Alexi K
+AU  - Dong AK
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA 31793, USA.
+FAU - Dufault, Nicholas S
+AU  - Dufault NS
+AD  - Department of Plant Pathology, University of Florida, Gainesville, FL 32611, USA.
+FAU - Ali, Md Emran
+AU  - Ali ME
+AUID- ORCID: 0000-0002-1957-4392
+AD  - Department of Plant Pathology, University of Georgia, Tifton, GA 31793, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210908
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+MH  - Biological Assay
+MH  - Fusariosis/*diagnosis/*microbiology
+MH  - *Fusarium
+MH  - Genome, Fungal
+MH  - Genomics/methods
+MH  - *Molecular Diagnostic Techniques/methods/trends
+MH  - Phenotype
+MH  - Plant Diseases/*microbiology
+PMC - PMC8468614
+OTO - NOTNLM
+OT  - Fusarium oxysporum f. sp. niveum
+OT  - comparative genomics
+OT  - diagnostics
+OT  - distribution
+OT  - effector profile
+OT  - fusarium wilt of watermelon
+OT  - race differentiation
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/09/29 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2021/09/28 01:17
+PHST- 2021/08/05 00:00 [received]
+PHST- 2021/08/31 00:00 [revised]
+PHST- 2021/09/02 00:00 [accepted]
+PHST- 2021/09/28 01:17 [entrez]
+PHST- 2021/09/29 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+AID - ijms22189735 [pii]
+AID - ijms-22-09735 [pii]
+AID - 10.3390/ijms22189735 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Sep 8;22(18):9735. doi: 10.3390/ijms22189735.
+
+PMID- 33969616
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211014
+LR  - 20211014
+IS  - 1364-3703 (Electronic)
+IS  - 1464-6722 (Print)
+IS  - 1364-3703 (Linking)
+VI  - 22
+IP  - 7
+DP  - 2021 Jul
+TI  - Current progress on pathogenicity-related transcription factors in Fusarium 
+      oxysporum.
+PG  - 882-895
+LID - 10.1111/mpp.13068 [doi]
+AB  - Fusarium oxysporum is a well-known soilborne plant pathogen that causes severe 
+      vascular wilt in economically important crops worldwide. During the infection 
+      process, F. oxysporum not only secretes various virulence factors, such as cell 
+      wall-degrading enzymes (CWDEs), effectors, and mycotoxins, that potentially play 
+      important roles in fungal pathogenicity but it must also respond to extrinsic 
+      abiotic stresses from the environment and the host. Over 700 transcription factors 
+      (TFs) have been predicted in the genome of F. oxysporum, but only 26 TFs have been 
+      functionally characterized in various formae speciales of F. oxysporum. Among these 
+      TFs, a total of 23 belonging to 10 families are required for pathogenesis through 
+      various mechanisms and pathways, and the zinc finger TF family is the largest family 
+      among these 10 families, which consists of 15 TFs that have been functionally 
+      characterized in F. oxysporum. In this review, we report current research progress 
+      on the 26 functionally analysed TFs in F. oxysporum and sort them into four groups 
+      based on their roles in F. oxysporum pathogenicity. Furthermore, we summarize and 
+      compare the biofunctions, involved pathways, putative targets, and homologs of these 
+      TFs and analyse the relationships among them. This review provides a systematic 
+      analysis of the regulation of virulence-related genes and facilitates further 
+      mechanistic analysis of TFs important in F. oxysporum virulence.
+CI  - © 2021 The Authors. Molecular Plant Pathology published by British Society for Plant 
+      Pathology and John Wiley & Sons Ltd.
+FAU - Zuriegat, Qussai
+AU  - Zuriegat Q
+AD  - State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, College 
+      of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou, China.
+FAU - Zheng, Yuru
+AU  - Zheng Y
+AD  - State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, College 
+      of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou, China.
+AD  - Fujian Institute for Food and Drug Quality Control, Fuzhou, China.
+FAU - Liu, Hong
+AU  - Liu H
+AD  - College of Resources and Environment, Fujian Agriculture and Forestry University, 
+      Fuzhou, China.
+FAU - Wang, Zonghua
+AU  - Wang Z
+AUID- ORCID: 0000-0002-0869-9683
+AD  - State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, College 
+      of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou, China.
+AD  - Institute of Oceanography, Minjiang University, Fuzhou, China.
+FAU - Yun, Yingzi
+AU  - Yun Y
+AUID- ORCID: 0000-0001-9733-5138
+AD  - State Key Laboratory of Ecological Pest Control for Fujian and Taiwan Crops, College 
+      of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210509
+TA  - Mol Plant Pathol
+JT  - Molecular plant pathology
+JID - 100954969
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Transcription Factors)
+RN  - 0 (Virulence Factors)
+RN  - Fusarium oxysporum
+SB  - IM
+MH  - Fungal Proteins/genetics
+MH  - Fusarium/*genetics/pathogenicity
+MH  - Plant Diseases/*microbiology
+MH  - Plants/*microbiology
+MH  - Transcription Factors/genetics
+MH  - Virulence Factors/*genetics
+PMC - PMC8232035
+OTO - NOTNLM
+OT  - * Fusarium oxysporum
+OT  - *pathogenicity
+OT  - *targets
+OT  - *transcription factor
+OT  - *virulence factors
+EDAT- 2021/05/11 06:00
+MHDA- 2021/10/15 06:00
+CRDT- 2021/05/10 06:50
+PHST- 2021/03/25 00:00 [revised]
+PHST- 2020/12/14 00:00 [received]
+PHST- 2021/03/25 00:00 [accepted]
+PHST- 2021/05/11 06:00 [pubmed]
+PHST- 2021/10/15 06:00 [medline]
+PHST- 2021/05/10 06:50 [entrez]
+AID - MPP13068 [pii]
+AID - 10.1111/mpp.13068 [doi]
+PST - ppublish
+SO  - Mol Plant Pathol. 2021 Jul;22(7):882-895. doi: 10.1111/mpp.13068. Epub 2021 May 9.
+
+PMID- 29153400
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180710
+LR  - 20180710
+IS  - 0065-2660 (Print)
+IS  - 0065-2660 (Linking)
+VI  - 100
+DP  - 2017
+TI  - Deciphering Pathogenicity of Fusarium oxysporum From a Phylogenomics Perspective.
+PG  - 179-209
+LID - S0065-2660(17)30038-X [pii]
+LID - 10.1016/bs.adgen.2017.09.010 [doi]
+AB  - Fusarium oxysporum is a large species complex of both plant and human pathogens that 
+      attack a diverse array of species in a host-specific manner. Comparative genomic 
+      studies have revealed that the host-specific pathogenicity of the F. oxysporum 
+      species complex (FOSC) was determined by distinct sets of supernumerary (SP) 
+      chromosomes. In contrast to common vertical transfer, where genetic materials are 
+      transmitted via cell division, SP chromosomes can be transmitted horizontally 
+      between phylogenetic lineages, explaining the polyphyletic nature of the 
+      host-specific pathogenicity of the FOSC. The existence of a diverse array of SP 
+      chromosomes determines the broad host range of this species complex, while the 
+      conserved core genome maintains essential house-keeping functions. Recognition of 
+      these SP chromosomes enables the functional and structural compartmentalization of 
+      F. oxysporum genomes. In this review, we examine the impact of this group of 
+      cross-kingdom pathogens on agricultural productivity and human health. Focusing on 
+      the pathogenicity of F. oxysporum in the phylogenomic framework of the genus 
+      Fusarium, we elucidate the evolution of pathogenicity within the FOSC. We conclude 
+      that a population genomics approach within a clearly defined phylogenomic framework 
+      is essential not only for understanding the evolution of the pathogenicity mechanism 
+      but also for identifying informative candidates associated with pathogenicity that 
+      can be developed as targets in disease management programs.
+CI  - © 2017 Elsevier Inc. All rights reserved.
+FAU - Zhang, Yong
+AU  - Zhang Y
+AD  - University of Massachusetts Amherst, Amherst, MA, United States.
+FAU - Ma, Li-Jun
+AU  - Ma LJ
+AD  - University of Massachusetts Amherst, Amherst, MA, United States. Electronic address: 
+      lijun@biochem.umass.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20171031
+PL  - United States
+TA  - Adv Genet
+JT  - Advances in genetics
+JID - 0370421
+SB  - IM
+MH  - Agriculture
+MH  - *Chromosomes, Fungal
+MH  - Disease Management
+MH  - Fusariosis/*microbiology
+MH  - Fusarium/classification/*genetics/*pathogenicity
+MH  - Gene Transfer, Horizontal
+MH  - *Genome, Fungal
+MH  - Genomics
+MH  - Host Specificity
+MH  - Humans
+MH  - *Phylogeny
+MH  - Plant Diseases/*microbiology
+MH  - Virulence/genetics
+OTO - NOTNLM
+OT  - Fusarium oxysporum species complex
+OT  - Horizontal transfer
+OT  - Host-specific pathogenicity
+OT  - Phylogenomics
+OT  - Supernumerary chromosome
+EDAT- 2017/11/21 06:00
+MHDA- 2018/07/11 06:00
+CRDT- 2017/11/21 06:00
+PHST- 2017/11/21 06:00 [entrez]
+PHST- 2017/11/21 06:00 [pubmed]
+PHST- 2018/07/11 06:00 [medline]
+AID - S0065-2660(17)30038-X [pii]
+AID - 10.1016/bs.adgen.2017.09.010 [doi]
+PST - ppublish
+SO  - Adv Genet. 2017;100:179-209. doi: 10.1016/bs.adgen.2017.09.010. Epub 2017 Oct 31.
+
+PMID- 34829230
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211130
+IS  - 2309-608X (Electronic)
+IS  - 2309-608X (Linking)
+VI  - 7
+IP  - 11
+DP  - 2021 Nov 8
+TI  - Bright Side of Fusarium oxysporum: Secondary Metabolites Bioactivities and 
+      Industrial Relevance in Biotechnology and Nanotechnology.
+LID - 10.3390/jof7110943 [doi]
+LID - 943
+AB  - Fungi have been assured to be one of the wealthiest pools of bio-metabolites with 
+      remarkable potential for discovering new drugs. The pathogenic fungi, Fusarium 
+      oxysporum affects many valuable trees and crops all over the world, producing wilt. 
+      This fungus is a source of different enzymes that have variable industrial and 
+      biotechnological applications. Additionally, it is widely employed for the synthesis 
+      of different types of metal nanoparticles with various biotechnological, 
+      pharmaceutical, industrial, and medicinal applications. Moreover, it possesses a 
+      mysterious capacity to produce a wide array of metabolites with a broad spectrum of 
+      bioactivities such as alkaloids, jasmonates, anthranilates, cyclic peptides, cyclic 
+      depsipeptides, xanthones, quinones, and terpenoids. Therefore, this review will 
+      cover the previously reported data on F. oxysporum, especially its metabolites and 
+      their bioactivities, as well as industrial relevance in biotechnology and 
+      nanotechnology in the period from 1967 to 2021. In this work, 180 metabolites have 
+      been listed and 203 references have been cited.
+FAU - Ibrahim, Sabrin R M
+AU  - Ibrahim SRM
+AUID- ORCID: 0000-0002-6858-7560
+AD  - Preparatory Year Program, Batterjee Medical College, Jeddah 21442, Saudi Arabia.
+AD  - Department of Pharmacognosy, Faculty of Pharmacy, Assiut University, Assiut 71526, 
+      Egypt.
+FAU - Sirwi, Alaa
+AU  - Sirwi A
+AUID- ORCID: 0000-0001-7823-1210
+AD  - Department of Natural Products and Alternative Medicine, Faculty of Pharmacy, King 
+      Abdulaziz University, Jeddah 21589, Saudi Arabia.
+FAU - Eid, Basma G
+AU  - Eid BG
+AUID- ORCID: 0000-0002-8244-1242
+AD  - Department of Pharmacology and Toxicology, Faculty of Pharmacy, King Abdulaziz 
+      University, Jeddah 21589, Saudi Arabia.
+FAU - Mohamed, Shaimaa G A
+AU  - Mohamed SGA
+AD  - Faculty of Dentistry, British University, Suez Desert Road, Cairo 11837, Egypt.
+FAU - Mohamed, Gamal A
+AU  - Mohamed GA
+AUID- ORCID: 0000-0002-2971-6008
+AD  - Department of Natural Products and Alternative Medicine, Faculty of Pharmacy, King 
+      Abdulaziz University, Jeddah 21589, Saudi Arabia.
+AD  - Department of Pharmacognosy, Faculty of Pharmacy, Al-Azhar University, Assiut 
+      Branch, Assiut 71524, Egypt.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211108
+TA  - J Fungi (Basel)
+JT  - Journal of fungi (Basel, Switzerland)
+JID - 101671827
+PMC - PMC8625159
+OTO - NOTNLM
+OT  - Fusarium oxysporum
+OT  - bioactivities
+OT  - fungi
+OT  - industrial relevance
+OT  - metabolites
+OT  - nanotechnology
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/11/28 06:00
+MHDA- 2021/11/28 06:01
+CRDT- 2021/11/27 01:08
+PHST- 2021/10/12 00:00 [received]
+PHST- 2021/11/01 00:00 [revised]
+PHST- 2021/11/06 00:00 [accepted]
+PHST- 2021/11/27 01:08 [entrez]
+PHST- 2021/11/28 06:00 [pubmed]
+PHST- 2021/11/28 06:01 [medline]
+AID - jof7110943 [pii]
+AID - jof-07-00943 [pii]
+AID - 10.3390/jof7110943 [doi]
+PST - epublish
+SO  - J Fungi (Basel). 2021 Nov 8;7(11):943. doi: 10.3390/jof7110943.
+
+PMID- 33968096
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210513
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Electronic)
+IS  - 1664-462X (Linking)
+VI  - 12
+DP  - 2021
+TI  - Secreted in Xylem Genes: Drivers of Host Adaptation in Fusarium oxysporum.
+PG  - 628611
+LID - 10.3389/fpls.2021.628611 [doi]
+LID - 628611
+AB  - Fusarium oxysporum (Fo) is a notorious pathogen that significantly contributes to 
+      yield losses in crops of high economic status. It is responsible for vascular wilt 
+      characterized by the browning of conductive tissue, wilting, and plant death. 
+      Individual strains of Fo are host specific (formae speciales), and approximately, 
+      150 forms have been documented so far. The pathogen secretes small effector proteins 
+      in the xylem, termed as Secreted in Xylem (Six), that contribute to its virulence. 
+      Most of these proteins contain cysteine residues in even numbers. These proteins are 
+      encoded by SIX genes that reside on mobile pathogenicity chromosomes. So far, 14 
+      proteins have been reported. However, formae speciales vary in SIX protein profile 
+      and their respective gene sequence. Thus, SIX genes have been employed as ideal 
+      markers for pathogen identification. Acquisition of SIX-encoding mobile 
+      pathogenicity chromosomes by non-pathogenic lines, through horizontal transfer, 
+      results in the evolution of new virulent lines. Recently, some SIX genes present on 
+      these pathogenicity chromosomes have been shown to be involved in defining variation 
+      in host specificity among formae speciales. Along these lines, the review entails 
+      the variability (formae speciales, races, and vegetative compatibility groups) and 
+      evolutionary relationships among members of F. oxysporum species complex (FOSC). It 
+      provides updated information on the diversity, structure, regulation, and 
+      (a)virulence functions of SIX genes. The improved understanding of roles of SIX in 
+      variability and virulence of Fo has significant implication in establishment of 
+      molecular framework and techniques for disease management. Finally, the review 
+      identifies the gaps in current knowledge and provides insights into potential 
+      research landscapes that can be explored to strengthen the understanding of 
+      functions of SIX genes.
+CI  - Copyright © 2021 Jangir, Mehra, Sharma, Singh, Rani and Kapoor.
+FAU - Jangir, Pooja
+AU  - Jangir P
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+FAU - Mehra, Namita
+AU  - Mehra N
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+FAU - Sharma, Karuna
+AU  - Sharma K
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+FAU - Singh, Neeraja
+AU  - Singh N
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+FAU - Rani, Mamta
+AU  - Rani M
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+FAU - Kapoor, Rupam
+AU  - Kapoor R
+AD  - Department of Botany, University of Delhi, New Delhi, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210422
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC8101498
+OTO - NOTNLM
+OT  - Fusarium oxysporum
+OT  - Fusarium oxysporum species complex
+OT  - Secreted in Xylem
+OT  - effectors
+OT  - host specificity
+OT  - pathogenicity
+COIS- The authors declare that the research was conducted in the absence of any commercial 
+      or financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2021/05/11 06:00
+MHDA- 2021/05/11 06:01
+CRDT- 2021/05/10 06:21
+PHST- 2020/11/12 00:00 [received]
+PHST- 2021/03/01 00:00 [accepted]
+PHST- 2021/05/10 06:21 [entrez]
+PHST- 2021/05/11 06:00 [pubmed]
+PHST- 2021/05/11 06:01 [medline]
+AID - 10.3389/fpls.2021.628611 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2021 Apr 22;12:628611. doi: 10.3389/fpls.2021.628611. eCollection 
+      2021.
+
+PMID- 35142295
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220211
+LR  - 20220211
+IS  - 0177-5103 (Print)
+IS  - 0177-5103 (Linking)
+VI  - 148
+DP  - 2022 Feb 10
+TI  - Fusarium oxysporum causes black gill disease in narrow-clawed crayfish Pontastacus 
+      leptodactylus.
+PG  - 19-27
+LID - 10.3354/dao03643 [doi]
+AB  - Morphological and molecular analyses were carried out to determine the causative 
+      agent of black gill disease in narrow-clawed crayfish Pontastacus leptodactylus 
+      specimens collected from 6 lakes (Taşkısığı, Beyşehir, Karaidemir, Karataş, Manyas, 
+      and Gölhisar) in Turkey. Fungi were isolated from the tissues of crayfish displaying 
+      putative black gill disease symptoms. Morphological evaluation was conducted, and 
+      the isolates were determined to be similar to Fusarium oxysporum. Subsequent 
+      molecular cloning of the ITS region of nrDNA by PCR confirmed species 
+      identification; DNA sequences from all 6 isolates were 99% similar to those of F. 
+      oxysporum. An experimental infection trial was conducted in triplicate using 1 of 
+      the 6 isolates to fulfill Koch's postulates. Three groups of crayfish were used: (1) 
+      wounded and contaminated (WC), (2) wounded and not contaminated (WNC), and (3) 
+      non-wounded and contaminated (NWC). On Day 3, one individual died in the WC group. 
+      Throughout the total 74 d monitoring period, no other mortality was recorded. On Day 
+      14, all crayfish in the WC group showed blackened gills, whereas all crayfish in the 
+      NWC displayed partial blackening and all crayfish in the WNC group displayed normal 
+      gill coloration. F. oxysporum was re-isolated in pure culture from the WC and NWC 
+      groups; thus, the disease was confirmed. Our results indicated that F. oxysporum 
+      causes black gill disease in P. leptodactylus crayfish. Moreover, we demonstrated 
+      that F. oxysporum can also infect non-wounded crayfish.
+FAU - Taştan, Yiğit
+AU  - Taştan Y
+AD  - Department of Aquaculture, Faculty of Fisheries, Kastamonu University, Kastamonu 
+      37150, Turkey.
+FAU - Çağatay, İfakat Tülay
+AU  - Çağatay İT
+LA  - eng
+PT  - Journal Article
+DEP - 20220210
+PL  - Germany
+TA  - Dis Aquat Organ
+JT  - Diseases of aquatic organisms
+JID - 8807037
+RN  - Fusarium oxysporum
+SB  - IM
+MH  - Animals
+MH  - *Astacoidea
+MH  - *Fusarium
+MH  - Gills
+MH  - Lakes
+OTO - NOTNLM
+OT  - Black gill disease
+OT  - Crayfish
+OT  - Fusarium oxysporum
+OT  - Pontastacus leptodactylus
+EDAT- 2022/02/11 06:00
+MHDA- 2022/02/12 06:00
+CRDT- 2022/02/10 08:38
+PHST- 2022/02/10 08:38 [entrez]
+PHST- 2022/02/11 06:00 [pubmed]
+PHST- 2022/02/12 06:00 [medline]
+AID - 10.3354/dao03643 [doi]
+PST - epublish
+SO  - Dis Aquat Organ. 2022 Feb 10;148:19-27. doi: 10.3354/dao03643.
+
+PMID- 34685823
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211026
+IS  - 2223-7747 (Print)
+IS  - 2223-7747 (Electronic)
+IS  - 2223-7747 (Linking)
+VI  - 10
+IP  - 10
+DP  - 2021 Sep 26
+TI  - Fusarium nirenbergiae (Fusarium oxysporum Species Complex) Causing the Wilting of 
+      Passion Fruit in Italy.
+LID - 10.3390/plants10102011 [doi]
+LID - 2011
+AB  - Passion fruit (Passiflora edulis Sims.) is an ever-increasing interest crop in Italy 
+      because it is mainly cultivated for its edible fruit and, secondly, as an ornamental 
+      evergreen climber. During the summer of 2020, two-year-old plants of purple passion 
+      fruit in one of the most important expanding production areas of Sicily (southern 
+      Italy) showed symptoms of yellowing, wilting, and vascular discoloration. 
+      Fusarium-like fungal colonies were consistently yielded from symptomatic crown and 
+      stem tissues. Five representative isolates were characterized by a morphological and 
+      molecular analysis based on a multilocus phylogeny using RNA polymerase's second 
+      largest subunit (RPB2) and translation elongation factor 1-alpha (EF-1α) genes, as 
+      Fusarium nirenbergiae (Fusarium oxysporum species complex). Pathogenicity tests 
+      conducted on healthy 1-year-old passion fruit cuttings revealed symptoms similar to 
+      those observed in the field. To our knowledge, this is the first report of Fusarium 
+      wilt on passion fruit caused by Fusarium nirenbergiae. This report focuses on the 
+      phytopathological implications of this fungal pathogen, which may represent a future 
+      significant threat for the expanding passion fruit production in Italy and Europe.
+FAU - Aiello, Dalia
+AU  - Aiello D
+AUID- ORCID: 0000-0002-6018-6850
+AD  - Dipartimento di Agricoltura, Alimentazione e Ambiente, sez. Patologia Vegetale, 
+      University of Catania, Via S. Sofia 100, 95123 Catania, Italy.
+FAU - Fiorenza, Alberto
+AU  - Fiorenza A
+AD  - Dipartimento di Agricoltura, Alimentazione e Ambiente, sez. Patologia Vegetale, 
+      University of Catania, Via S. Sofia 100, 95123 Catania, Italy.
+FAU - Leonardi, Giuseppa Rosaria
+AU  - Leonardi GR
+AD  - Dipartimento di Agricoltura, Alimentazione e Ambiente, sez. Patologia Vegetale, 
+      University of Catania, Via S. Sofia 100, 95123 Catania, Italy.
+FAU - Vitale, Alessandro
+AU  - Vitale A
+AUID- ORCID: 0000-0002-7339-4034
+AD  - Dipartimento di Agricoltura, Alimentazione e Ambiente, sez. Patologia Vegetale, 
+      University of Catania, Via S. Sofia 100, 95123 Catania, Italy.
+FAU - Polizzi, Giancarlo
+AU  - Polizzi G
+AUID- ORCID: 0000-0001-8630-2760
+AD  - Dipartimento di Agricoltura, Alimentazione e Ambiente, sez. Patologia Vegetale, 
+      University of Catania, Via S. Sofia 100, 95123 Catania, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20210926
+TA  - Plants (Basel)
+JT  - Plants (Basel, Switzerland)
+JID - 101596181
+PMC - PMC8538540
+OTO - NOTNLM
+OT  - Fusarium oxysporum species complex
+OT  - passion fruit
+OT  - wilt
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/10/24 06:00
+MHDA- 2021/10/24 06:01
+CRDT- 2021/10/23 01:23
+PHST- 2021/09/01 00:00 [received]
+PHST- 2021/09/23 00:00 [revised]
+PHST- 2021/09/24 00:00 [accepted]
+PHST- 2021/10/23 01:23 [entrez]
+PHST- 2021/10/24 06:00 [pubmed]
+PHST- 2021/10/24 06:01 [medline]
+AID - plants10102011 [pii]
+AID - plants-10-02011 [pii]
+AID - 10.3390/plants10102011 [doi]
+PST - epublish
+SO  - Plants (Basel). 2021 Sep 26;10(10):2011. doi: 10.3390/plants10102011.
+
+PMID- 34686977
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211203
+LR  - 20211214
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 2391
+DP  - 2022
+TI  - Agrobacterium tumefaciens-Mediated Transformation Method for Fusarium oxysporum.
+PG  - 63-73
+LID - 10.1007/978-1-0716-1795-3_6 [doi]
+AB  - Agrobacterium tumefaciens-mediated transformation (ATMT) is becoming a popular 
+      effective system as an insertional mutagenesis tool in filamentous fungi. An 
+      efficient Agrobacterium tumefaciens-mediated transformation approach was developed 
+      for the plant pathogenic fungus, F. oxysporum, the causal agent of Apple replant 
+      disease (ARD) in China. Four parameters were selected to optimize efficiencies of 
+      transformation. A. tumefaciens concentration, conidial concentration of F. 
+      oxysporum, and co-culture temperature and time have a significant influence on all 
+      parameters. Transformants emit green fluorescence under fluorescence microscopy. The 
+      integration of a mitotically stable hygromycin resistance gene (hph) in the genome 
+      is confirmed by PCR. The transformation efficiency can reach up to 300 transformants 
+      per 10(6) conidia under optimal conditions. This ATMT method is an efficient tool 
+      for insertional mutagenesis of F. oxysporum.
+CI  - © 2022. The Author(s), under exclusive license to Springer Science+Business Media, 
+      LLC, part of Springer Nature.
+FAU - Dong, Yan-Hong
+AU  - Dong YH
+AD  - College of Plant Protection, Hebei Agricultural University, Baoding, China.
+FAU - Wang, Shu-Tong
+AU  - Wang ST
+AD  - College of Plant Protection, Hebei Agricultural University, Baoding, China. 
+      bdstwang@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (DNA, Bacterial)
+RN  - Fusarium oxysporum
+SB  - IM
+MH  - *Agrobacterium tumefaciens/genetics
+MH  - DNA, Bacterial
+MH  - *Fusarium
+MH  - Mutagenesis, Insertional
+MH  - Spores, Fungal/genetics
+MH  - Transformation, Genetic
+OTO - NOTNLM
+OT  - *Agrobacterium tumefaciens-mediated transformation
+OT  - *Fusarium oxysporum
+OT  - *Optimization
+OT  - *T-DNA
+EDAT- 2021/10/24 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/10/23 06:20
+PHST- 2021/10/23 06:20 [entrez]
+PHST- 2021/10/24 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+AID - 10.1007/978-1-0716-1795-3_6 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2022;2391:63-73. doi: 10.1007/978-1-0716-1795-3_6.
+
+PMID- 32897153
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210423
+LR  - 20210423
+IS  - 0191-2917 (Print)
+IS  - 0191-2917 (Linking)
+VI  - 105
+IP  - 4
+DP  - 2021 Apr
+TI  - Detection of Fusarium oxysporum f. sp. fragariae by Using Loop-Mediated Isothermal 
+      Amplification.
+PG  - 1072-1079
+LID - 10.1094/PDIS-03-20-0590-RE [doi]
+AB  - We developed a loop-mediated isothermal amplification (LAMP) assay for detecting 
+      Fusarium oxysporum f. sp. fragariae, the causal agent of wilt in strawberry plants. 
+      This assay was based on genomic regions between the portions of transposable 
+      elements Han and Skippy of the fungus. The LAMP assay allowed the efficient 
+      detection of F. oxysporum f. sp. fragariae DNA by visual inspection, without 
+      requiring gel electrophoresis. The detection limit was 100 pg of genomic DNA, which 
+      is comparable to that of PCR. The LAMP primers successfully discriminated F. 
+      oxysporum f. sp. fragariae strains from nonpathogenic F. oxysporum strains and other 
+      fungi. The LAMP assay at 63°C, which was found to be the optimal treatment 
+      temperature, for 1.5 h successfully detected F. oxysporum f. sp. fragariae 
+      California strains GL1270 and GL1385. When the assay was performed using a Genelyzer 
+      FIII portable fluorometer, these California strains were successfully detected in 1 
+      h. The assay facilitated the detection of conidia in soil samples after they were 
+      precultured on a selective medium for F. oxysporum (FoG2) as well as latent 
+      infection in strawberry plants after preculturing. The LAMP assay for visual 
+      inspection of DNA required only a heating block and an incubator, reducing the cost 
+      of this assay. Thus, it could be suitable for the detection of F. oxysporum f. sp. 
+      fragariae strains in centers that store prefoundation and foundation stocks of 
+      strawberry, including plant nurseries.
+FAU - Katoh, Hiroshi
+AU  - Katoh H
+AUID- ORCID: 0000-0002-3864-1538
+AD  - Faculty of Agriculture, Takasaki University of Health and Welfare, Takasaki, Gunma 
+      370-0033, Japan.
+FAU - Yamazaki, Shuichiro
+AU  - Yamazaki S
+AD  - Tochigi Prefectural Agricultural Experiment Station, Utsunomiya, Tochigi 320-0002, 
+      Japan.
+FAU - Fukuda, Takashi
+AU  - Fukuda T
+AD  - Tochigi Prefectural Agricultural Experiment Station, Utsunomiya, Tochigi 320-0002, 
+      Japan.
+FAU - Sonoda, Shoji
+AU  - Sonoda S
+AD  - Faculty of Agriculture, Utsunomiya University, Utsunomiya, Tochigi 321-8505, Japan.
+FAU - Nishigawa, Hisashi
+AU  - Nishigawa H
+AD  - Faculty of Agriculture, Utsunomiya University, Utsunomiya, Tochigi 321-8505, Japan.
+FAU - Natsuaki, Tomohide
+AU  - Natsuaki T
+AD  - Faculty of Agriculture, Utsunomiya University, Utsunomiya, Tochigi 321-8505, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20210223
+PL  - United States
+TA  - Plant Dis
+JT  - Plant disease
+JID - 9882809
+RN  - Fusarium oxysporum
+RN  - LAMP assay
+SB  - IM
+MH  - *Fusarium/genetics
+MH  - Molecular Diagnostic Techniques
+MH  - Nucleic Acid Amplification Techniques
+MH  - Plant Diseases
+OTO - NOTNLM
+OT  - Fragaria × ananassa
+OT  - early diagnosis
+OT  - latent infection
+OT  - specificity
+OT  - vascular wilt
+EDAT- 2020/09/09 06:00
+MHDA- 2021/04/24 06:00
+CRDT- 2020/09/08 12:12
+PHST- 2020/09/09 06:00 [pubmed]
+PHST- 2021/04/24 06:00 [medline]
+PHST- 2020/09/08 12:12 [entrez]
+AID - 10.1094/PDIS-03-20-0590-RE [doi]
+PST - ppublish
+SO  - Plant Dis. 2021 Apr;105(4):1072-1079. doi: 10.1094/PDIS-03-20-0590-RE. Epub 2021 Feb 
+      23.
